@@ -1,5 +1,5 @@
 # et_corona
-Time series prediction for coronavirus pandamic in ethiopia
+Time series prediction for coronavirus cases in Ethiopia
 
 
 ## Installaion
