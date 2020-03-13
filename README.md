@@ -17,4 +17,4 @@ python 3.x
 ## Contributing
 
 * Pull requests are welcome 
-* Please the corona_dataset.csv
+* Please update the corona_dataset.csv
