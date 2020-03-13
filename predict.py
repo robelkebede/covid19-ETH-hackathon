@@ -11,7 +11,7 @@ data = pd.read_csv("./corona_dataset.csv")
 m = Prophet()
 m.fit(data)
 
-future = m.make_future_dataframe(periods=1000)
+future = m.make_future_dataframe(periods=10)
 forecast = m.predict(future)
 
 pic = m.plot(forecast)
