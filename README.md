@@ -11,12 +11,12 @@ python 3.x
 
 ```bash
 	
-	git clone https://github.com/robelkebede/et_corona.git
-	python predict.py
+    git clone https://github.com/robelkebede/et_corona.git
+    python predict.py
 
 ```
 
 
-##Contributing
+## Contributing
 
 Pull requests are welcome Plase update the corona_dataset.csv
