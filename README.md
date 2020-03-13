@@ -2,9 +2,6 @@
 Time series prediction for coronavirus pandamic in ethiopia
 
 
-
-
-
 ## Installaion
 
 python 3.x
@@ -19,4 +16,5 @@ python 3.x
 
 ## Contributing
 
-Pull requests are welcome Plase update the corona_dataset.csv
+* Pull requests are welcome 
+* Please the corona_dataset.csv
