@@ -2,6 +2,10 @@
 Time series prediction for coronavirus cases in Ethiopia
 
 
+## (16/2/2020)
+
+![alt text](./covid-19.png)
+
 ## Installaion
 
 python 3.x
