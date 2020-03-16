@@ -1,4 +1,4 @@
-# et_corona
+# covid_19 ETH
 Time series prediction for coronavirus cases in Ethiopia
 
 
