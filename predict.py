@@ -19,5 +19,8 @@ pic = m.plot(forecast)
 x = forecast["ds"]
 y = forecast["yhat"]
 
+plt.xlabel('Date')
+plt.ylabel('num of infected')
+
 plt.plot(x,y)
 plt.show()
