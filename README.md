@@ -1,6 +1,7 @@
 # covid19 ETH
+
 Time series prediction for coronavirus cases in Ethiopia
-\n
+
 simulation https://github.com/robelkebede/COVID19-ETH-SIMULATION
 
 
