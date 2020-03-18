@@ -3,7 +3,7 @@ Time series prediction for coronavirus cases in Ethiopia
 simulation " https://github.com/robelkebede/COVID19-ETH-SIMULATION
 
 
-## (16/2/2020)
+## (17/2/2020)
 
 ![alt text](./covid-19.png)
 
